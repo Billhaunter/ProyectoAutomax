@@ -1,6 +1,6 @@
 # PROYECTO SEGUNDO PARCIAL
 Este proyecto consiste en la creación de una página web para la empresa "Automax", dedicada a la renta de autos, con el objetivo de promocionar sus unidades por internet. La página web se ejecuta en un servidor web propio y contiene varias características, como una landing page, página de contacto, página "acerca de" y detalles de algunos vehículos.
-Estructura del Proyecto
+# Estructura del Proyecto
 
 El proyecto está dividido en diferentes partes:
 1. Servidor Web
